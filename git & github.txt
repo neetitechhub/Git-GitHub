@@ -101,3 +101,4 @@ case 3 : commited chnages (for many chnages)
 git reset <-commit hash->
 git reset --hard <-commit hash->
 
+Source : https://www.youtube.com/watch?v=Ez8F0nW6S-w
