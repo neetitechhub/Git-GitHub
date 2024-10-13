@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=Ez8F0nW6S-w
 3. Push and Pull changes using git commands.
 4. Creating branch and Pull Request.
 5. Uses Visual Studio to commit and pulling the code.
+6. Worked with DEV, QA & UAT (STA) environment.
 
 **Azure DevOps | Understanding Of CI/CD Pipelines | Epic, Features, Story & Bug Creation & Tracking**
 
