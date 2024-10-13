@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=Ez8F0nW6S-w
 4. Creating branch and Pull Request.
 5. Uses Visual Studio to commit and pulling the code.
 
-**Azure DevOps Enthusiast | Learning and Implementing CI/CD Pipelines**
+**Azure DevOps | Understanding Of CI/CD Pipelines | Epic, Features, Story & Bug Creation & Tracking**
 
 1. Skilled in integrating Azure DevOps to streamline Power BI development processes, including continuous integration (CI) and continuous deployment (CD) pipelines for automating Power BI reports and dashboard deployment.
 2. Experienced in using version control with Git, managing repositories for Power BI projects, and ensuring collaboration and consistency across development teams.
